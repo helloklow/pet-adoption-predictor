@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/helloklow/animal-adoption-predictor/venv"
+VIRTUAL_ENV="/Users/helloklow/pet-adoption-predictor/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

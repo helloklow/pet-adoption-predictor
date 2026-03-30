@@ -20,7 +20,7 @@ Live shelter outcome data from the Austin Animal Center, containing 170,000+ rec
 
 ### Setup
 1. Clone the repository\
-   git clone https://github.com/helloklow/pet-adoption-predictor.git\
+   git clone https://github.com/helloklow/pet-adoption-predictor.git \
    cd pet-adoption-predictor
 
 2. Create and activate a virtual environment\

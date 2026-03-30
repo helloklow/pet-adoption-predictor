@@ -11,35 +11,33 @@ Pet Adoption Predictor is intended to showcase fundamental data science and mach
 Live shelter outcome data from the Austin Animal Center, containing 170,000+ records.
 
 ## Tech Stack
-**Language:** Python
-**Data Ingestion:** Requests
-**Data Analysis:** Matplotlib, Numpy, Pandas, Seaborn
+**Language:** Python\
+**Data Ingestion:** Requests\
+**Data Analysis:** Matplotlib, Numpy, Pandas, Seaborn\
 **Modeling:** Scikit-learn, Joblib
 
 ## Installation & Usage
 
 ### Setup
-1. Clone the repository
-   git clone https://github.com/helloklow/pet-adoption-predictor.git
+1. Clone the repository\
+   git clone https://github.com/helloklow/pet-adoption-predictor.git\
    cd pet-adoption-predictor
 
-2. Create and activate a virtual environment
-   python3 -m venv venv
+2. Create and activate a virtual environment\
+   python3 -m venv venv\
    source venv/bin/activate
 
-3. Install dependencies
+3. Install dependencies\
    pip install -r requirements.txt
 
 4. Fetch the data by running all cells in notebooks/01_data_ingestion.ipynb
 
-5. Run all cells in notebooks/03_cleaning_feature_engineering.ipynb to generate
-   the cleaned dataset
+5. Run all cells in notebooks/03_cleaning_feature_engineering.ipynb to generate the cleaned dataset
 
 6. Run all cells in notebooks/04_modeling.ipynb to train and save the model
 
 ### Running the Prediction Tool
-Open notebooks/05_prediction.ipynb and run all cells. The intake tool will
-prompt you for animal details and return an adoption likelihood prediction.
+Open notebooks/05_prediction.ipynb and run all cells. The intake tool will prompt you for animal details and return an adoption likelihood prediction.
 
 ## Contributors
 This app was built by [Kelsey Low](https://github.com/helloklow) as a personal portfolio project.

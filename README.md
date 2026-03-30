@@ -1,7 +1,7 @@
 # Pet Adoption Predictor
 
 ## Introduction
-Pet Adoption Predictor is a data science project utilizing Austin Animal Center's data on animal shelter outcomes. This project aims to predict the likelihood of a shelter animal being adopted based on characteristics such as age, breed, sex, and whether the animal has been spayed or neutered. This project features a basic, interactive command line program, which accepts input an animal's details and provides an instant adoption likelihood prediction. Please note, this project is educational only and is not guaranteed to provide accurate predictions.
+Pet Adoption Predictor is a data science project utilizing Austin Animal Center's data on animal shelter outcomes. This project aims to predict the likelihood of a shelter animal being adopted based on characteristics such as age, breed, sex, and whether the animal has been spayed or neutered. This project features a basic, interactive command line program, which accepts user input on an animal's details and provides an instant adoption likelihood prediction. Please note, this project is educational only and is not guaranteed to provide accurate predictions.
 
 ## Project Scope
 Pet Adoption Predictor is intended to showcase fundamental data science and machine learning principles. The primary objectives were to demonstrate thorough exploratory data analysis including visualizations, feature engineering, model selection, and hyperparameter tuning. 
